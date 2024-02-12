@@ -1,0 +1,12 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "prettier.semi": false,
+  "prettier.singleAttributePerLine": true,
+  "prettier.singleQuote": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
